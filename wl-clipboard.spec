@@ -42,3 +42,4 @@ sockets, files and so on.
 %{_mandir}/man1/wl-paste.1.*
 %{_datadir}/bash-completion/completions/wl-*
 %{_datadir}/zsh/site-functions/_wl-*
+%{_datadir}/fish/vendor_completions.d/
