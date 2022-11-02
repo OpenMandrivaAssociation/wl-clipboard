@@ -5,7 +5,7 @@ Summary:        Command-line copy/paste utilities for Wayland
 
 License:        GPLv3+
 URL:            https://github.com/bugaevc/wl-clipboard
-Source0:        https://github.com/bugaevc/wl-clipboardarchive/%{name}-%{version}.tar.gz
+Source0:        https://github.com/bugaevc/wl-clipboard/archive/refs/tags/v%{version}.tar.gz
 
 BuildRequires:  meson
 BuildRequires:  wayland-devel
