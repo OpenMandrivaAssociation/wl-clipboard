@@ -1,6 +1,6 @@
 Name:           wl-clipboard
 Version:        2.1.0
-Release:        1
+Release:        2
 Summary:        Command-line copy/paste utilities for Wayland
 
 License:        GPLv3+
