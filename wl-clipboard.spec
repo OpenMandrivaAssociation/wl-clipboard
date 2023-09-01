@@ -1,5 +1,5 @@
 Name:           wl-clipboard
-Version:        2.2.0
+Version:        2.2.1
 Release:        1
 Summary:        Command-line copy/paste utilities for Wayland
 
